@@ -1,5 +1,5 @@
 
-"""Pytorch_hello_world.ipynb
+
 
 
 pip install torch
