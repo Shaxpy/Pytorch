@@ -1,5 +1,5 @@
 
-pip install torch
+!pip install torch
 
 import torch
 
